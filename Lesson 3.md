@@ -17,4 +17,7 @@ For example, `17 % 3 = 2`.
 Similar to `+=` but subtract from the orginal variable.
 
 
-6. `print()` in JavaScript is `console.log();`
+6. Operator `*=`<br/>
+Similar to `+=` but multiply from the orginal variable.
+
+7. `print()` in JavaScript is `console.log();`
