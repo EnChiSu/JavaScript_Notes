@@ -13,4 +13,8 @@ For example, `17 % 3 = 2`.
 `+=` equals to add value to variable itself. For example,
 `myVar += 5;` equals to `myVar = myVar + 5;`
 
-5. `print()` in JavaScript is `console.log();`
+5. Operator `-=`<br/>
+Similar to `+=` but subtract from the orginal variable.
+
+
+6. `print()` in JavaScript is `console.log();`
