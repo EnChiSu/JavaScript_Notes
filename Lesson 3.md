@@ -9,6 +9,8 @@
 3. Remainder operator is `%`
 For example, `17 % 3 = 2`.
 
-4. Operator `+=` 
+4. Operator `+=` <br/>
 `+=` equals to add value to variable itself. For example,
 `myVar += 5;` equals to `myVar = myVar + 5;`
+
+5. `print()` in JavaScript is `console.log();`
