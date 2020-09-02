@@ -20,4 +20,7 @@ Similar to `+=` but subtract from the orginal variable.
 6. Operator `*=`<br/>
 Similar to `+=` but multiply from the orginal variable.
 
+7. Operator `/=`<br/>
+Similar to `+=` but divide from the orginal variable.
+
 7. `print()` in JavaScript is `console.log();`
