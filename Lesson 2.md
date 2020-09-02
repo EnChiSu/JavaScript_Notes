@@ -1,4 +1,4 @@
-# Lesson 2 Notes
+# Lesson 2: Basics of Data Types and Variable Declaration
 
 ## Declare Variables
 In JavaScript, to name a variable you have to type "var" first, then put the name of the variable you want. You can further assign value to the variable with "=" sign.<br/>
@@ -18,5 +18,3 @@ There is one naming convention called "camelCase", which means the multi-word va
 `var someVariable;`<br/>
 `var anotherVariableName;`<br/>
 `var thisVariableNameIsSoLong;`<br/>
-
-3. 
