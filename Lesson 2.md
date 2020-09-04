@@ -7,7 +7,9 @@ For example, name a variable MyVar with value 5 should look like:<br/>
 or declare a string variable<br/>
 `var MyName = "EnChiSu";`<br/>
 **Note:** <br/>
-Every command line should follow with a semicolon `;`.
+1. Every command line should follow with a semicolon `;`.
+2. Escaping literal quotes in strings you can place a backslash (\) in front of the quote. For example, <br/>
+`var sampleStr = "Steve said, \"Andrew is learning JavaScript\".";`
 
 ## Data Types
 There are also various data types, which are "undefined", "null", "boolean", "string", "symbol", "bigint, "number", and "object". <br/>
