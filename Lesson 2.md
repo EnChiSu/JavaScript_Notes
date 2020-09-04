@@ -10,6 +10,15 @@ or declare a string variable<br/>
 1. Every command line should follow with a semicolon `;`.
 2. Escaping literal quotes in strings you can place a backslash (\) in front of the quote. For example, <br/>
 `var sampleStr = "Steve said, \"Andrew is learning JavaScript\".";`
+3. Escape sequences in strings<br/>
+   `\'`	single quote
+   `\"`	double quote
+   `\\`	backslash
+   `\n`	newline
+   `\r`	carriage return
+   `\t`	tab
+   `\b`	word boundary
+\f	form feed
 
 ## Data Types
 There are also various data types, which are "undefined", "null", "boolean", "string", "symbol", "bigint, "number", and "object". <br/>
