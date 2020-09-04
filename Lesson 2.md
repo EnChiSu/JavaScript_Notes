@@ -11,14 +11,14 @@ or declare a string variable<br/>
 2. Escaping literal quotes in strings you can place a backslash (\) in front of the quote. For example, <br/>
 `var sampleStr = "Steve said, \"Andrew is learning JavaScript\".";`
 3. Escape sequences in strings<br/>
-   `\'`	single quote
-   `\"`	double quote
-   `\\`	backslash
-   `\n`	newline
-   `\r`	carriage return
-   `\t`	tab
-   `\b`	word boundary
-\f	form feed
+   `\'`	single quote<br/>
+   `\"`	double quote<br/>
+   `\\`	backslash<br/>
+   `\n`	newline<br/>
+   `\r`	carriage return<br/>
+   `\t`	tab<br/>
+   `\b`	word boundary<br/>
+   `\f`	form feed<br/>
 
 ## Data Types
 There are also various data types, which are "undefined", "null", "boolean", "string", "symbol", "bigint, "number", and "object". <br/>
