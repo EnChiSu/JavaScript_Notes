@@ -3,9 +3,9 @@
 ## Declare Variables
 In JavaScript, to name a variable you have to type "var" first, then put the name of the variable you want. You can further assign value to the variable with "=" sign.<br/>
 For example, name a variable MyVar with value 5 should look like:<br/>
-`var MyVar = 5`<br/>
+`var MyVar = 5;`<br/>
 or declare a string variable<br/>
-`var MyName = "EnChiSu"`<br/>
+`var MyName = "EnChiSu";`<br/>
 **Note:** <br/>
 Every command line should follow with a semicolon `;`.
 
