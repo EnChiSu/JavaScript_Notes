@@ -31,3 +31,9 @@ JavaScript, like Python, also start counting at 0.
    `var oneDown = threeArr.shift();`<br/>
    `console.log(oneDown); // Returns 1`<br/>
    `console.log(threeArr); // Returns [4, 6]`
+7. Instead of append an element at the last of an array, you can also append an element in front of your array.<br/>
+   e.g.<br/>
+   `var ourArray = ["Stimpson", "J", "cat"];`<br/>
+   `ourArray.shift(); // ourArray now equals ["J", "cat"]`<br/>
+   `ourArray.unshift("Happy"); // ourArray now equals ["Happy", "J", "cat"]`
+   
