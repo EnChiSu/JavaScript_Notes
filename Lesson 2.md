@@ -54,8 +54,8 @@ e.g. <br/>
    `arr1.push(4); // arr1 is now [1,2,3,4]`
 4. `.pop()` removes the last element from an array and returns that element.<br/>
    e.g. <br/>
-   `var threeArr = [1, 4, 6];`
-   `var oneDown = threeArr.pop();`
-   `console.log(oneDown); // Returns 6`
+   `var threeArr = [1, 4, 6];`<br/>
+   `var oneDown = threeArr.pop();`<br/>
+   `console.log(oneDown); // Returns 6`<br/>
    `console.log(threeArr); // Returns [1, 4]`
 
