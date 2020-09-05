@@ -1,4 +1,4 @@
-# Lesson 4: Function
+# Lesson 4: Build-in Function
 
 1. .length<br/>
 e.g. `"Alan Peter".length; // 10`
