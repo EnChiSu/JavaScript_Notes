@@ -50,13 +50,12 @@ e.g. <br/>
    `myArray[0][1] // 23`
 3. You can append an element to an array with function `.push()`<br/>
    e.g.<br/>
-   `var arr1 = [1,2,3];`
+   `var arr1 = [1,2,3];`<br/>
    `arr1.push(4); // arr1 is now [1,2,3,4]`
-   
-
-
-
-
-
-2. 
+4. `.pop()` removes the last element from an array and returns that element.<br/>
+   e.g. <br/>
+   `var threeArr = [1, 4, 6];`
+   `var oneDown = threeArr.pop();`
+   `console.log(oneDown); // Returns 6`
+   `console.log(threeArr); // Returns [1, 4]`
 
