@@ -34,3 +34,20 @@ There is one naming convention called "camelCase", which means the multi-word va
 `var someVariable;`<br/>
 `var anotherVariableName;`<br/>
 `var thisVariableNameIsSoLong;`<br/>
+
+## Variable Types
+1. array
+Array can store several pieces of data in one place. To declare an array, you can simply use bracket to include all the elements you want to contain.  <br/>
+e.g. <br/>
+`var sandwich = ["peanut butter", 10, "USD"]`<br/>
+**Note**:<br/>
+You can nest one array within another array, which also called a multi-dimensional array.<br/>
+e.g.<br/>
+`var myArray = [["Bulls", 23], ["White Sox", 45]];`<br/>
+
+
+
+
+
+2. 
+
