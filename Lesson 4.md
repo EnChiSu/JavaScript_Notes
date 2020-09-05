@@ -25,4 +25,9 @@ JavaScript, like Python, also start counting at 0.
    `var oneDown = threeArr.pop();`<br/>
    `console.log(oneDown); // Returns 6`<br/>
    `console.log(threeArr); // Returns [1, 4]`
-6. 
+6. `.shift()` removes the first element from an array and returns that element.<br/>
+   e.g.<br/>
+   `var threeArr = [1, 4, 6];`<br/>
+   `var oneDown = threeArr.shift();`<br/>
+   `console.log(oneDown); // Returns 1`<br/>
+   `console.log(threeArr); // Returns [4, 6]`
