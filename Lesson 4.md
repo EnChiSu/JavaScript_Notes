@@ -5,7 +5,7 @@ e.g. `"Alan Peter".length; // 10`
 
 2. use bracket behind variable as index to call the element you want<br/>
 e.g. <br/>
-`var firstName = "Charles";`
+`var firstName = "Charles";`<br/>
 `var firstLetter = firstName[0] // firstLetter is "C"`<br/>
 Note: <br/>
 JavaScript, like Python, also start counting at 0.
