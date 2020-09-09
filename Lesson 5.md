@@ -7,7 +7,7 @@ e.g.<br/>
 `functionName() // "Hello World"`<br/>
 
 **Note:**
-Inside function, to create a "global" variable you don's have to add `var` in front of your new variable. ("global" variable means it can be applied to all the environment of your program. <br/>
+Inside function, to create a "global" variable you don's have to add `var` in front of your new variable. ("global" variable means it can be applied to all the environment in your program. <br/>
 e.g.<br/>
 `var myGlobal = 10 // Normal way to name a global variable.`<br/>
 vs<br/>
