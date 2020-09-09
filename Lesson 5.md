@@ -1,4 +1,4 @@
-# Lesson 5: Edit your own function
+# Lesson 5: Create your own function
 You can create your own function with function name like below:<br/>
 e.g.<br/>
 `function functionName() {`<br/>
