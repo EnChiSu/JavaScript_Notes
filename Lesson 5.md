@@ -17,9 +17,9 @@ vs<br/>
 
 However, if you just want to create a "local" variable for the use of the specific function, you have to add `var` in front of your new variable.<br/>
 e.g.<br/>
-function myTest() {<br/>
-  var loc = "foo";<br/>
-  console.log(loc);<br/>
-}<br/>
-myTest(); // logs "foo"<br/>
-console.log(loc); // loc is not defined<br/>
+`function myTest() {<br/>`
+`  var loc = "foo";<br/>`
+`  console.log(loc);<br/>`
+`}`<br/>
+`myTest(); // logs "foo"`<br/>
+`console.log(loc); // loc is not defined`<br/>
